@@ -1,0 +1,12 @@
+[
+  {
+    "tutorialLink": "JAVASCRIPT",
+    "expectedUrl": "https://www.w3schools.com/js/default.asp",
+    "displayDateTime": true
+  },
+  {
+    "tutorialLink": "HTML",
+    "expectedUrl": "https://www.w3schools.com/html/default.asp",
+    "displayDateTime": false
+  }
+]
